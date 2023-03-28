@@ -1,0 +1,17 @@
+4c38d7df3f423668854e9dc80d6e465b *DESCRIPTION
+6e73149deb8dce33f2928d3a875e9c2e *NAMESPACE
+95f6043e1cba1308100b0ecb9ab00b01 *R/SparseFunClust-package.R
+49f3b42b8b50bb52fffe97e924fa9ff0 *R/SparseFunClust.R
+64bd3a459c6ae761c41e3705caf00354 *R/SparseFunClust_align.R
+013c87f4efe33c5037bc24d032f7adb9 *R/SparseFunClust_align_functions.R
+04e5a939b20e2a131cc624ea926115a5 *R/SparseFunClust_data_generation.R
+1bffdbdcb781556ba8755a7020c0b5d3 *R/SparseFunClust_no_align.R
+bbd29be4b1a2fac407f32ed4fe4b7622 *R/SparseFunClust_no_align_functions.R
+b4d211404b2432f976b7eebb4f7b478a *build/vignette.rds
+3e5f7ef7d41ea2efc948b61e8fdcb1d1 *inst/doc/toy-example.R
+ea1821ced7828c0fae4da823c0a24854 *inst/doc/toy-example.Rmd
+ca090832c7d35ba6cb1bc7e80a67e806 *inst/doc/toy-example.html
+50c3e679ef095badc38645fbbbe4d7df *man/SparseFunClust.Rd
+c239d3c0237292c3c7f9b5321dab6c94 *man/cer.Rd
+bbac1826aa001e857447fb608b2e517f *man/generate.data.FV17.Rd
+ea1821ced7828c0fae4da823c0a24854 *vignettes/toy-example.Rmd
